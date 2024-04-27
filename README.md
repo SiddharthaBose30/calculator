@@ -2,4 +2,4 @@ This is a simple Calculator.
 
 ## Sample Image
 
-![Sample Image](/public/calculator.png)
+![Sample Image](calculator/public/calculator.png)
